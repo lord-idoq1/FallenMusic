@@ -13,37 +13,37 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "25068063",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "362df6f94a7fd72cbf7d193b64de5b04",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6128675316:AAGm2MppSASvJeLiBZDLjYLp9i1c1CaB4M4",
         "required": true
       },
       "OWNER_ID": {
         "description": "Fill your user id here. (Must be integer)",
-        "value": "1356469075",
+        "value": "6246077481",
         "required": true
       },
       "SESSION": {
         "description": "A pyrogram v2 string session from @StringFatherBot",
-        "value": "",
+        "value": "AQAhIHQAdqns-3m9wxSZTQhoMPGl76WoIk47UnlpKmiqwIfgbwZVivOuyj2lvD_QcXnGSNHgv7FO9SoV_GDSj7QRwLtmrpWLwfqlY4omGFYRH51riGWT7e3SLcWA5834ZWL5IT9zn4lfn_aFK_H6_h9E6BaFl_WDFXnd7S2q4O0bNl_vYomcG3-3mhq3Pzdq84gkD99k7mEzZm39-GPuFwpJ8EdwJYgnPE9gQd20zc0rTsgC4A3UWR2-rQUlzp9LGfehOyjEUAjoSY_MYU3rLJBErT4nfkhmh2pV2EeCxoTQUsvr-ICoF4ifoRRBG33g8qEtbQ3wHemjO4piG9YUzFCTYWhvDQAAAAF0S5QpAA",
         "required": true
       },
       "SUDO_USERS": {
         "description": "The user id(s) of user(s) whom you would like to add as a sudo. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "6246077481",
         "required": true
       },
       "SUPPORT_CHAT": {
         "description": "Link of your telegram support group. (Must pe public)",
-        "value": "https://t.me/DevilsHeavenMF",
+        "value": "https://t.me/mahayabanknih",
         "required": false
       }
     },
